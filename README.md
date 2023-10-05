@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Project0**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter/Kotlin**
 
 - 📫 How to reach me **marco.baiano01@gmail.com**
 
