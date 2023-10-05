@@ -1,9 +1,4 @@
-![image](https://github.com/Marcospace10/Marcospace10/assets/114854407/3f78de10-273c-4725-b87c-e9a2e0baf793)
-
-
-
-
-
+<h1 align="center">Hi 👋, I'm Marco Baiano</h1>
 <h3 align="center">A passionate developer from Italy</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
