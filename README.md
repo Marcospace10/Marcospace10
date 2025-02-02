@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **marco.baiano01@gmail.com**
 
-- ⚡ Fun fact **We spend a year on the toiler in our lifetime.**
+- ⚡ Fun fact **We spend a year on the toilet in our lifetime.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
